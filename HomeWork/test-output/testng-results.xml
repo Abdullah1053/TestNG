@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="78" started-at="2022-04-18T03:57:20 AST" finished-at="2022-04-18T03:57:20 AST">
+    <groups>
+    </groups>
+    <test name="HomeWork" duration-ms="78" started-at="2022-04-18T03:57:20 AST" finished-at="2022-04-18T03:57:20 AST">
+      <class name="TestCases">
+        <test-method status="PASS" signature="setup()[pri:1, instance:TestCases@548b7f67]" name="setup" duration-ms="16" started-at="2022-04-18T03:57:20 AST" finished-at="2022-04-18T03:57:20 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestSteps()[pri:2, instance:TestCases@548b7f67]" name="TestSteps" duration-ms="0" started-at="2022-04-18T03:57:20 AST" finished-at="2022-04-18T03:57:20 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSteps -->
+        <test-method status="PASS" signature="TearDown()[pri:3, instance:TestCases@548b7f67]" name="TearDown" duration-ms="0" started-at="2022-04-18T03:57:20 AST" finished-at="2022-04-18T03:57:20 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases -->
+    </test> <!-- HomeWork -->
+  </suite> <!-- Default Suite -->
+</testng-results>
